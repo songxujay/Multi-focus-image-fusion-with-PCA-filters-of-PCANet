@@ -2,7 +2,7 @@
 
 Published in: IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction 
 
-[论文链接](https://f.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-focus+Image+Fusion+with+PCA+Filters+of+PCANet&btnG=)
+[The paper links](https://f.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-focus+Image+Fusion+with+PCA+Filters+of+PCANet&btnG=)
 
 
 ## Abstract
