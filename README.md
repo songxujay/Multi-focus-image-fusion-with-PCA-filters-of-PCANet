@@ -1,8 +1,6 @@
-# Multi-focus image fusion with PCA filters of PCANet
+### Multi-focus image fusion with PCA filters of PCANet
 
 Published in: IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction 
-
-Song X, Wu X J. Multi-focus Image Fusion with PCA Filters of PCANet[C]//IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction. Springer, Cham, 2018: 1-17.
 
 [论文链接](https://f.glgoo.top/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-focus+Image+Fusion+with+PCA+Filters+of+PCANet&btnG=)
 
@@ -13,4 +11,20 @@ As is well known to all, the training of deep learning model is time consuming a
 ### The framework of fusion method
 ![image](https://github.com/songxujay/Multi-focus-image-fusion-with-PCA-filters-of-PCANet/blob/master/figures/framework.png)
 
+
+## citation
+For paper:
+
+Song X, Wu X J. Multi-focus Image Fusion with PCA Filters of PCANet[C]//IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction. Springer, Cham, 2018: 1-17.
+
+For code:
+@inproceedings{song2018multi,
+  title={Multi-focus Image Fusion with PCA Filters of PCANet},
+  author={Song, Xu and Wu, Xiao-Jun},
+  booktitle={IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction},
+  pages={1--17},
+  year={2018},
+  organization={Springer}
+  url={https://github.com/songxujay/Multi-focus-image-fusion-with-PCA-filters-of-PCANet}
+}
 
