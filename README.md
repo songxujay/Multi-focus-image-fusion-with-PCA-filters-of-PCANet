@@ -1,4 +1,4 @@
-# Multi-focus-image-fusion-with-PCA-filters-of-PCANet
+# Multi-focus image fusion with PCA filters of PCANet
 
 Published in: IAPR Workshop on Multimodal Pattern Recognition of Social Signals in Human-Computer Interaction 
 
