@@ -26,7 +26,7 @@ For code:
   pages={1--17},
   year={2018},
   organization={Springer}
-  howpublished = {\url{https://github.com/songxujay}}
+  howpublished = {\url{https://github.com/songxujay/Multi-focus-image-fusion-with-PCA-filters-of-PCANet}}
 }
 ```
 
