@@ -29,6 +29,11 @@ For code:
   howpublished = {\url{https://github.com/songxujay/Multi-focus-image-fusion-with-PCA-filters-of-PCANet}}
 }
 ```
+## Acknowledgment
+
+Thanks for Professor Yi Ma 
+
+Many thanks to Professor Yi Ma in the homepage to provide PCANet source code.(http://people.eecs.berkeley.edu/~yima/Publication.html#Journal)
 
 **If you have any questions , please contact me by email 825849512@qq.com**
 
