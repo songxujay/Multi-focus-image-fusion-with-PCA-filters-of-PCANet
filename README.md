@@ -32,7 +32,7 @@ For code:
 ## Acknowledgment
 [Many thanks to Professor Yi Ma in the homepage to provide PCANet source code](http://people.eecs.berkeley.edu/~yima/Publication.html#Journal)
 
-Many thanks to Professor xiao-jun Wu and [Dr.Hui Li](https://github.com/hli1221)
+Many thanks to Professor Xiao-Jun Wu and [Dr.Hui Li](https://github.com/hli1221)
 
 
 
