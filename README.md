@@ -34,8 +34,3 @@ For code:
 
 Many thanks to Professor Xiao-Jun Wu and [Dr.Hui Li](https://github.com/hli1221)
 
-
-
-
-## **If you have any questions , please contact me by email 825849512@qq.com**
-
